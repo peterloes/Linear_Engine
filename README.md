@@ -14,7 +14,7 @@ Supported:
 - Nanotec Linear Aktuator L2018S0604-T3,5x1
  
 
-![My image](https://github.com/peterloes/Linear_Engine/blob/master/1_Getting_Started_Tutorial/2_Electronic_board.jpg)
+![My image](https://github.com/peterloes/Linear_Engine/blob/master/Getting_Started_Tutorial/2_Electronic_board.jpg)
 
 
 The linear setup procedure consists of 4 steps:
@@ -30,7 +30,7 @@ The linear setup procedure consists of 4 steps:
 - Asserting S3 the 4th time stores the servo parameters into FLASH and
   returns to normal operation.
 
-![My image](https://github.com/peterloes/Linear_Engine/blob/master/1_Getting_Started_Tutorial/1_MOMO_Shutter.jpg)
+![My image](https://github.com/peterloes/Linear_Engine/blob/master/Getting_Started_Tutorial/1_MOMO_Shutter.jpg)
 
 The Linear Actuator features EFM32 ...the world´s most energy friendly microcontrollers
 
