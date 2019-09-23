@@ -1,0 +1,82 @@
+Part  Value                Device                  Package                Description                                                    MF MPN OC_FARNELL OC_NEWARK
+C1    100µ/16V             CPOL-EUE                PANASONIC_E            POLARIZED CAPACITOR, European symbol                                                      
+C2    1uF                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C3    1nF                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C4    10nF                 C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C5    10uF                 C-EUC1206               C1206                  CAPACITOR, European symbol                                                                
+C6    100n                 C_SMD0805               0805                                                                                                             
+C7    1u                   C_SMD0805               0805                                                                                                             
+C8    12p                  C_SMD0805               0805                                                                                                             
+C9    18p                  C_SMD0805               0805                                                                                                             
+C10   100n                 C_SMD0805               0805                                                                                                             
+C11   100n                 C_SMD0805               0805                                                                                                             
+C12   100n                 C_SMD0805               0805                                                                                                             
+C13   100n                 C_SMD0805               0805                                                                                                             
+C14   12p                  C_SMD0805               0805                                                                                                             
+C15   18p                  C_SMD0805               0805                                                                                                             
+C16   100n                 C_SMD0805               0805                                                                                                             
+C17   100n                 C_SMD0805               0805                                                                                                             
+C18   100n                 C_SMD0805               0805                                                                                                             
+C19   100n                 C_SMD0805               0805                                                                                                             
+C20   100n                 C_SMD0805               0805                                                                                                             
+C21   100n                 C_SMD0805               0805                                                                                                             
+C22   4.7µF                C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
+C23   10nF                 C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C24   100nF                C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C25   4.3nF                C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C26   24pF                 C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C27   22µF                 C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
+C28   22µF                 C-EUC1210               C1210                  CAPACITOR, European symbol                                                                
+C29   10n                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C30   10n                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+C31   10n                  C-EUC0603               C0603                  CAPACITOR, European symbol                                                                
+D1    B360B                SCHOTTKY-DIODESMD       SMB                    Schottky Diode                                                                            
+F1    MF-USMF050           PFUF                    PFUF_1210POLY                                                                                                    
+F2    MF-USMF050           PFUF                    PFUF_1210POLY                                                                                                    
+IC1   TPS7A1601DGNT        TPS7A16                 DGN_S-PDSO-G8-EXP                                                                                                
+IC2   EFM32G230F128        EFM32G230F128           QFN64                  EFM32G230F128 Gecko Microcontroller in 9mm x 9mm QFN64 package                            
+IC3   TPS54240DGQR         TPS54240DGQR            S-PDSO-G10                                                                                                       
+L1    PIS4728-220M-04      DR127                   DR127                  High Power Density, High Efficiency, Shielded Inductors                                   
+LED1  SML-H12U8TT86        LEDCHIPLED_0805         CHIPLED_0805           LED                                                                                       
+LSP1  (n.b.)LSP10          LSP10                   LSP10                  SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                     
+LSP2  (n.b.)LSP10          LSP10                   LSP10                  SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                     
+LSP3  (n.b.)LSP10          LSP10                   LSP10                  SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                     
+LSP4  (n.b.)LSP10          LSP10                   LSP10                  SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                     
+LSP5  (n.b.)LSP10          LSP10                   LSP10                  SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                     
+LSP6  (n.b.)LSP10          LSP10                   LSP10                  SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                     
+LSP7  (n.b.)LSP10          LSP10                   LSP10                  SOLDER PAD drill 1.0 mm, distributor Buerklin, 12H555                                     
+PASS1 ROUND_1MM1.5         ROUND_1MM1.5            ROUND2_1.5MM                                                                                                     
+PASS2 ROUND_1MM1.5         ROUND_1MM1.5            ROUND2_1.5MM                                                                                                     
+Q1    SI7121DN             TRANSISTOR-FET_SI7113DN TRANSISTOR-FET_1212-8S                                                                                           
+Q2    NX5032GA/32MHz/8pF   CRYSTAL2P5.0X3.2        CRYSTAL2P5.0X3.2       Quarz Crystal                                                                             
+Q3    CM7V, 32768Hz/12.5pF CRYSTAL2P               CRYSTAL2P3.2X1.5       Quarz Crystal                                                                             
+R1    100k                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R2    1K2                  R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R3    2M                   R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R4    1M13                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R5    100K                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R6    1                    R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R7    100K                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R8    348K                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R9    39K                  R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R10   140K                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R11   10k                  R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R12   100                  R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R13   1K                   R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R14   1K                   R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R15   100K                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R16   100K                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R17   100K                 R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R18   100                  R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R19   100                  R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+R20   100                  R-EU_R0805              R0805                  RESISTOR, European symbol                                                                 
+S1    SWPB_B3S1000         DTSM-6                  DTSM-6                                                                                                           
+S2    SWPB_B3S1000         DTSM-6                  DTSM-6                                                                                                           
+S3    SWPB_B3S1000         DTSM-6                  DTSM-6                                                                                                           
+S4    (n.b.)SBS9102TK      219-02                  CTS-219-02             Surface Mount DIP Switch Series 219 SMT                               unknown    unknown  
+X1    MKDS1/2-3,81         MKDS1/2-3,81            2POL381                MKDS 1/2-3,81 - Order No. 1727010 (RS-Online - 101-5384)                                  
+X2    DP11_8DP_2DS         DP11_8DP_2DS            DP11_8DP-2DS                                                                                                     
+X3    MKDS1/3-3,81         MKDS1/3-3,81            3POL381                MKDS 1/3-3,81 - Order No. 1727023 (RS-Online - 101-5390)                                  
+X4    MKDS1/3-3,81         MKDS1/3-3,81            3POL381                MKDS 1/3-3,81 - Order No. 1727023 (RS-Online - 101-5390)                                  
+X5    MKDS1/3-3,81         MKDS1/3-3,81            3POL381                MKDS 1/3-3,81 - Order No. 1727023 (RS-Online - 101-5390)                                  
+X6    MKDS1/4-3,81         MKDS1/4-3,81            4POL381                MKDS 1/4-3,81 - Order No. 1727036                                                         
