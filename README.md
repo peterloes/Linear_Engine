@@ -10,7 +10,7 @@ inputs, please see below.  The firmware supports soft-start, i.e. the servo
 speed will be ramped-up during the start phase.
 
 Supported:
-- Nanotec SMC11 Leistungsendstufe
+- Nanotec SMC11-2 Leistungsendstufe
 - Nanotec Linear Aktuator L2018S0604-T3,5x1
  
 
