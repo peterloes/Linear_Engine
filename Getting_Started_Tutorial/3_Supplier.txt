@@ -1,3 +1,20 @@
+Linear Actuator & Power Output Stage
+
+L2018S0604-T3,5X1 Linearaktuator 
+SMC11-2 Mikroschritt Leistungsendstufe
+ZK-SMC11 Anschlusskabel
+ZST3,5-1200-1 
+
+Nanotec Electronic GmbH & Co. KG
+Kapellenstr. 6
+D-85622 Feldkirchen b. München 
+
+Telefon: ++49-89-900686-0
+Fax:     ++49-89-900686-50
+Email:   info@nanotec.de
+http://www.nanotec.de
+
+
 Supplier of all Electronic Boards
 
 Top-Print Electronic GmbH
