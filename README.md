@@ -32,4 +32,4 @@ The linear setup procedure consists of 4 steps:
 
 ![My image](https://github.com/peterloes/Linear_Engine/blob/master/Getting_Started_Tutorial/1_MOMO_Shutter.jpg)
 
-Prototype: Feeder bottom
+Prototype: Feeder
