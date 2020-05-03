@@ -32,6 +32,8 @@ The linear setup procedure consists of 4 steps:
 
 Prototype: Feeder
 
+https://github.com/peterloes/Linear_Engine/blob/master/Getting_Started_Tutorial/1_poster_overview.pdf
+
 Mainboard: https://github.com/peterloes/MOMO
 
 - Low-Power Device
