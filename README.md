@@ -34,7 +34,11 @@ Prototype: Feeder
 
 https://github.com/peterloes/Linear_Engine/blob/master/Getting_Started_Tutorial/1_poster_overview.pdf
 
-Mainboard: https://github.com/peterloes/MOMO
+Mainboard:
+
+https://github.com/peterloes/MOMO
+
+https://github.com/peterloes/TAMDL
 
 - Low-Power Device
 
