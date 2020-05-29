@@ -38,8 +38,6 @@ Mainboard:
 
 https://github.com/peterloes/MOMO
 
-https://github.com/peterloes/TAMDL
-
 - Low-Power Device
 
 The standalone Linear Actuator features EFM32 ...the world´s most energy friendly microcontrollers
