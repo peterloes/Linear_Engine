@@ -38,8 +38,6 @@ Mainboard:
 
 https://github.com/peterloes/MOMO
 
-- Low-Power Device
-
 Manufacture:
 
 https://github.com/peterloes/Linear_Engine/blob/master/Getting_Started_Tutorial/3_Supplier.txt
