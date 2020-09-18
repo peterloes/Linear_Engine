@@ -7,12 +7,13 @@ ZST3,5-1200-1
 
 Nanotec Electronic GmbH & Co. KG
 Kapellenstr. 6
-D-85622 Feldkirchen b. M�nchen 
+D-85622 Feldkirchen b. München 
 
 Telefon: ++49-89-900686-0
 Fax:     ++49-89-900686-50
 Email:   info@nanotec.de
 http://www.nanotec.de
+
 
 
 Supplier of all Electronic Boards
@@ -27,3 +28,16 @@ Tel.: +49-89-60668047
 Fax: +49-89-60668049
 mailto: info@top-print.eu
 www.top-print.eu
+
+
+
+Protective coating with Schmelzharz Bectron MR3404
+
+KC – Kunststoff- Chemische Produkte GmbH
+Holger Sarau-Burghardt
+
+Leonberger Straße 86 
+DE 71292 Friolzheim
+phone: +49 (0)7044 9425 13
+e-mail: h.sarau-burghardt@kc-produkte.com
+http: www.conformalcoating.de
