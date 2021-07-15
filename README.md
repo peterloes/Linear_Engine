@@ -1,6 +1,6 @@
 ﻿# Linear Actuator
 
-Platform for Animal Manipulation 
+A standalone Platform for Animal Manipulation 
 
 This is the firmware for the LinearA_2017 (linear servo, i.e. stepper motor with spindle)
 and project Servo_2015 (standard PWM servo).
